@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RCarizey
 - 👀 I’m new to interested in 3d Printing, Linux, coding, cybersecurity, networking, and system administration
-- 🎸 I've been a musician for years, on bass, drums, and guitar
+- 🎸 I've been a musician for years on bass, drums, piano and guitar
 - 🌱 I’m currently learning about 3d modeling software, raspberry pis, basic front end development, and servers
 
 <!---
